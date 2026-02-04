@@ -4,7 +4,7 @@
 
 PASO 1: DESCARGAR Y DESCOMPRIMIR
 ---------------------------------
-1. Descarga el archivo PrinterRepairTool.zip
+1. Descarga el archivo PrinterRepairTool.rar
 2. Haz clic derecho → Extraer todo
 3. Elige una carpeta (ejemplo: C:\PrinterRepair\)
 
@@ -84,17 +84,15 @@ SOLUCIÓN:
 
 ¿Necesitas ayuda?
 
-Email: soporte@dimachapps.com
-Web: www.dimachapps.com
-
-Horario de atención: Lunes a Viernes, 9:00 - 18:00
+Email: serviciotecnico@dimach.com.ar
+Web: www.dimach.com.ar
 
 
 ═══════════════════════════════════════════════════════════
   INFORMACIÓN DE LICENCIA
 ═══════════════════════════════════════════════════════════
 
-Tu licencia está incluida en el archivo: license.dat
+Tu licencia está incluida en el archivo en la carpeta donde descomprimiste el programa.
 
 NO elimines ni modifiques este archivo.
 
@@ -109,3 +107,4 @@ Copyright © 2026 Dimach Apps
 Todos los derechos reservados
 
 ═══════════════════════════════════════════════════════════
+
