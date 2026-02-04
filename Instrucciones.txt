@@ -1,0 +1,111 @@
+═══════════════════════════════════════════════════════════
+  PRINTER REPAIR TOOL PRO - INSTRUCCIONES DE INSTALACIÓN
+═══════════════════════════════════════════════════════════
+
+PASO 1: DESCARGAR Y DESCOMPRIMIR
+---------------------------------
+1. Descarga el archivo PrinterRepairTool.zip
+2. Haz clic derecho → Extraer todo
+3. Elige una carpeta (ejemplo: C:\PrinterRepair\)
+
+
+PASO 2: PRIMERA EJECUCIÓN
+--------------------------
+1. Abre la carpeta donde descomprimiste
+2. Haz doble clic en: PrinterRepairTool.exe
+
+3. IMPORTANTE: Aparecerá una ventana azul que dice:
+   "Windows protegió tu PC"
+   
+   Esto es NORMAL. Windows muestra esta advertencia
+   para todas las aplicaciones nuevas que no están
+   firmadas digitalmente.
+
+4. Haz clic en "Más información"
+5. Haz clic en "Ejecutar de todas formas"
+6. Acepta los permisos de administrador (UAC)
+
+
+PASO 3: ¡LISTO!
+----------------
+La aplicación se abrirá normalmente.
+Windows recordará tu elección para futuras ejecuciones.
+
+
+═══════════════════════════════════════════════════════════
+  ¿POR QUÉ APARECE ESTA ADVERTENCIA?
+═══════════════════════════════════════════════════════════
+
+Windows SmartScreen protege tu PC mostrando advertencias
+para aplicaciones que no tienen firma digital comercial.
+
+Printer Repair Tool Pro es una aplicación segura y no
+contiene virus ni malware. La advertencia es solo porque
+es una aplicación nueva.
+
+Puedes verificar que es seguro escaneándolo con tu
+antivirus favorito.
+
+
+═══════════════════════════════════════════════════════════
+  REQUISITOS DEL SISTEMA
+═══════════════════════════════════════════════════════════
+
+• Windows 7, 8, 10 u 11 (32 o 64 bits)
+• Permisos de administrador
+• 50 MB de espacio libre
+
+
+═══════════════════════════════════════════════════════════
+  SOLUCIÓN DE PROBLEMAS
+═══════════════════════════════════════════════════════════
+
+PROBLEMA: Windows Defender bloquea el archivo
+SOLUCIÓN:
+1. Abre Windows Security
+2. Ve a: Protección antivirus y contra amenazas
+3. Haz clic en "Administrar configuración"
+4. Desplázate a "Exclusiones"
+5. Agrega PrinterRepairTool.exe como exclusión
+
+
+PROBLEMA: No aparece el botón "Ejecutar de todas formas"
+SOLUCIÓN:
+1. Haz clic derecho en PrinterRepairTool.exe
+2. Selecciona "Propiedades"
+3. En la pestaña "General", marca "Desbloquear"
+4. Haz clic en "Aplicar" y "Aceptar"
+5. Intenta ejecutar de nuevo
+
+
+═══════════════════════════════════════════════════════════
+  SOPORTE TÉCNICO
+═══════════════════════════════════════════════════════════
+
+¿Necesitas ayuda?
+
+Email: soporte@dimachapps.com
+Web: www.dimachapps.com
+
+Horario de atención: Lunes a Viernes, 9:00 - 18:00
+
+
+═══════════════════════════════════════════════════════════
+  INFORMACIÓN DE LICENCIA
+═══════════════════════════════════════════════════════════
+
+Tu licencia está incluida en el archivo: license.dat
+
+NO elimines ni modifiques este archivo.
+
+Para renovar o actualizar tu licencia, contacta con
+soporte técnico.
+
+
+═══════════════════════════════════════════════════════════
+
+Printer Repair Tool Pro v1.0
+Copyright © 2026 Dimach Apps
+Todos los derechos reservados
+
+═══════════════════════════════════════════════════════════
