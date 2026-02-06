@@ -1,7 +1,17 @@
 # Printer_Repair_Tools
 
-<img width="480" height="933" alt="Printer repair 1" src="https://github.com/user-attachments/assets/2010f4b4-e461-4a41-99c4-d3c88a6df429" />
+<img width="478" height="927" alt="Imagen general" src="https://github.com/user-attachments/assets/0b90cdd4-f77f-4852-be4c-93ec8faccabe" />
 
-<img width="462" height="128" alt="Historial" src="https://github.com/user-attachments/assets/37583492-145d-45d4-81c0-ee4ad709d1a4" />
 
-<img width="551" height="268" alt="Reporte txt" src="https://github.com/user-attachments/assets/941f34fd-35fb-40a5-895e-07e8391019bc" />
+<img width="478" height="264" alt="Funciones Pro" src="https://github.com/user-attachments/assets/64b9a8d6-9fa3-4bef-9268-ec79d90905ec" />
+
+
+<img width="478" height="385" alt="Mensajes" src="https://github.com/user-attachments/assets/bdc33945-2188-4541-9e50-a130908be53e" />
+
+
+<img width="478" height="460" alt="Ayuda" src="https://github.com/user-attachments/assets/33fa89dc-7c5a-4eea-9abc-3d948f76d011" />
+
+
+
+
+
