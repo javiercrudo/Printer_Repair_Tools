@@ -25,29 +25,42 @@ Para un control manual detallado, dispone de tres funciones básicas:
 ________________________________________
 
 
-<img width="476" height="383" alt="Mensajes" src="https://github.com/user-attachments/assets/f9757f28-2193-4fcd-8cf2-e5b4e0204868" />
+<img width="481" height="442" alt="Mensajes" src="https://github.com/user-attachments/assets/658cea89-b968-4fe9-8b70-0874788abda9" />
+
 
 ________________________________________
+
 📊 Diagnóstico y Red
 Si la impresora está encendida pero el equipo no la detecta:
 •	Escáner de Impresora de Red: Busca automáticamente las impresoras IP configuradas en su PC y verifica si responden (hace un "ping"). Si aparece en ROJO, el problema es de conexión física o red.
+
 •	Carpeta Impresoras: Acceso directo al Panel de Control de Windows.
+
 •	Ping Manual: Permite probar una dirección IP específica.
+
 •	Administrador de Dispositivos: Abre la ventana técnica de Windows para revisar controladores.
+
 •	Exportar Reporte: Genera un archivo `.txt` detallado con todo lo realizado. Es fundamental enviarlo a soporte técnico si el problema persiste.
 
-<img width="504" height="265" alt="Exportacion de tareas de reparacion" src="https://github.com/user-attachments/assets/cf415bb2-df57-4c7a-bb89-fc9169d2ddcc" />
+<img width="557" height="186" alt="Exportacion de tareas de reparacion" src="https://github.com/user-attachments/assets/72b9629e-a5c3-40ec-91f1-0148f396e800" />
+
+
 ________________________________________
 
 ✨ Funciones Avanzadas (Mantenimiento Pro)
+
 Estas funciones solo están disponibles en la versión PROFESSIONAL:
+
 🧹 Limpieza Profunda de Drivers
 Elimina controladores antiguos u "huérfanos" que ya no se usan. Esto previene conflictos de software y hace que el sistema de impresión responda más rápido.
+
 🔌 Resetear Puertos USB
 Si su impresora está conectada por cable pero aparece como "Desconectada", esta función limpia la caché de los puertos USB, obligando a Windows a reconocer la impresora de nuevo.
 Nota: Se recomienda desconectar y volver a conectar el cable USB después de usar esta función.
+
 🚫 Forzar Cierre y Reiniciar
 Úselo en casos extremos donde el botón normal de "Detener Spooler" no responda. Cierra el proceso de forma agresiva para destrabar el sistema.
+
 🔄 Reiniciar Explorer
 Refresca la barra de tareas y las ventanas de Windows. Útil si la cola de impresión no se actualiza visualmente.
 
@@ -57,14 +70,19 @@ ________________________________________
 
 🔐 Licencia y Estado
 En la parte superior verá su estado actual:
+
 •	Verde: Licencia vigente (más de 15 días).
+
 •	Naranja: Próxima a vencer (7 a 15 días).
+
 •	Rojo: Vencimiento inminente (menos de 7 días).
+
 Soporte Técnico: Haga clic sobre el nombre del cliente para abrir un chat directo de WhatsApp con el soporte técnico.
 
 ________________________________________
 
 🆘 Preguntas Frecuentes
+
 ¿Por qué el programa pide permisos de administrador al abrir?
 Es necesario porque el programa interactúa con servicios críticos de Windows para poder reparar la impresión.
 
