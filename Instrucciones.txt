@@ -4,7 +4,7 @@
 
 PASO 1: DESCARGAR Y DESCOMPRIMIR
 ---------------------------------
-1. Descarga el archivo PrinterRepairTool.rar
+1. Descarga el archivo PrinterTools-SolutionsDev.rar
 2. Haz clic derecho → Extraer todo
 3. Elige una carpeta (ejemplo: C:\PrinterRepair\)
 
@@ -84,8 +84,8 @@ SOLUCIÓN:
 
 ¿Necesitas ayuda?
 
-Email: serviciotecnico@dimach.com.ar
-Web: www.dimach.com.ar
+Email: contacto@solutionsdev.com.ar
+Web: www.solutionsdev.com.ar
 
 
 ═══════════════════════════════════════════════════════════
@@ -102,9 +102,10 @@ soporte técnico.
 
 ═══════════════════════════════════════════════════════════
 
-Printer Repair Tool Pro v1.0
-Copyright © 2026 Dimach Apps
+Printer Tool Pro v1.0
+Copyright © 2026 SolutionsDev
 Todos los derechos reservados
 
 ═══════════════════════════════════════════════════════════
+
 
